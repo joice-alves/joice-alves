@@ -29,11 +29,14 @@
 ## 📫 &nbsp;You can find me here
 
 <p align="left" style="background:yellow">
+<a href="https://linkedin.com/in/joicemaiara" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-joicemaiara-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
 <a href="https://codepen.io/joicealves" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-joicealves-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://linkedin.com/in/joicemaiara" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-joicemaiara-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://hackerrank.com/joicealves" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-joicealves-05122A?style=flat&logo=hackerrank" alt="hackerrank"/>
 </a>
 </p>
 

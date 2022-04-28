@@ -40,11 +40,11 @@
 ## 😄 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/joi-alves" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-joi-alves-05122A?style=flat&logo=codepen" alt="codepen"/>
+<a href="https://codepen.io/joicealves" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-joicealves-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://linkedin.com/in/joi-alves" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-joi-alves-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://linkedin.com/in/joicemaiara" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-joicemaiara-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
 

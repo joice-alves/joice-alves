@@ -3,13 +3,13 @@
 <h1 align="left">Hello world! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Joice Alves</h1>
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=joice-alves&color=yellow" alt="Profile views" /> </p-->
 
-- 🔥 Software Engineer with Java experience with strong willingness to learn new technologies.
+- 🔥 Software Engineer with Java experience with strong willingness to learn new technologies
 
 - 🔭 I’m currently working at IBM
 
 - 🌱 I’m currently learning Kotlin
 
-- 💬 Ask me about **Java, SQL and cloud migration**
+- 💬 Ask me about **Java, SQL and Cloud migration**
 
 - ⚡ Fun fact: **I'm not really into coffee 😜**
 

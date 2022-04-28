@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: **I'm not really into coffee 😜**
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -26,7 +26,7 @@
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-05122A?style=flat&logo=eclipseide)&nbsp;
 ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-05122A?style=flat&logo=stackoverflow)&nbsp;
 
-<br><br>
+<br>
 
 <!--## ⚙️ &nbsp;GitHub Analytics
 
@@ -35,16 +35,16 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joice-alves&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p> -->
 
-<br><br>
+<br>
 
 ## 😄 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/joicemaiara" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
+<a href="https://codepen.io/joi-alves" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-joi-alves-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://linkedin.com/in/joicemaiara" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://linkedin.com/in/joi-alves" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-joi-alves-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
 

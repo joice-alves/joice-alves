@@ -14,7 +14,7 @@
 - ✨ Fun fact: **I'm not really into coffee 😜**
 <br>
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/-JAVA8-05122A?style=flat&logo=JAVA)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -34,7 +34,7 @@
 </p> 
 <br>-->
 
-### 📫 &nbsp;You can find me here
+## 📫 &nbsp;You can find me here
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/joicealves" target="_blank">

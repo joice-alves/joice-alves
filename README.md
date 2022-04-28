@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact: **I'm not really into coffee 😜**
 
-<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -26,7 +25,6 @@
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-05122A?style=flat&logo=eclipseide)&nbsp;
 ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-05122A?style=flat&logo=stackoverflow)&nbsp;
 
-<br>
 
 <!--## ⚙️ &nbsp;GitHub Analytics
 
@@ -35,9 +33,8 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joice-alves&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p> -->
 
-<br>
 
-## 😄 &nbsp;You can find me here
+### 😄 &nbsp;You can find me here
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/joicealves" target="_blank">

@@ -11,10 +11,11 @@
 
 - 💬 Ask me about **Java, SQL and Cloud migration**
 
-- ⚡ Fun fact: **I'm not really into coffee 😜**
+- ✨ Fun fact: **I'm not really into coffee 😜**
 
+<br>
 
-## 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/-JAVA8-05122A?style=flat&logo=JAVA)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -25,16 +26,18 @@
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-05122A?style=flat&logo=eclipseide)&nbsp;
 ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-05122A?style=flat&logo=stackoverflow)&nbsp;
 
+<br>
 
 <!--## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=joice-alves&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joice-alves&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p> -->
+</p> 
 
+<br>-->
 
-### 😄 &nbsp;You can find me here
+### 📫 &nbsp;You can find me here
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/joicealves" target="_blank">
@@ -44,18 +47,3 @@
   <img align="center" src="https://img.shields.io/badge/-joicemaiara-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
-
-<!--
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

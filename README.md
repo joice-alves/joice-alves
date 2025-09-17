@@ -7,11 +7,11 @@
 
 🔹​ I’m currently working at IBM
 
-🔹​ I’m currently learning AWS
+🔹​ I’m currently learning **AWS**
 
 🔹​ Ask me about **Java, Mainframe modernization and Cloud migration**
 
-🔹​ Fun fact: **I'm not really into coffee.**
+🔹​ Fun fact: **I'm not really into coffee. ​🚫☕**
 <br>
 
 ## 🔷​ &nbsp;Tech Stack

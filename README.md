@@ -14,7 +14,7 @@
 🔹​ Fun fact: **I'm not really into coffee. ​🚫☕**
 <br>
 
-## &nbsp;Tech Stack
+<h2 align="left">Tech Stack​</h2>
 
 ![Java](https://img.shields.io/badge/-JAVA8-05122A?style=flat&logo=JAVA)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -26,7 +26,7 @@
 ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-05122A?style=flat&logo=stackoverflow)&nbsp;
 <br><br>
 
-## &nbsp;You can find me here
+<h2 align="left">You can find me here​</h2>
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/mjoicealves" target="_blank">

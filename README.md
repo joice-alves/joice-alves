@@ -29,7 +29,7 @@
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/mjoicealves" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat" alt="linkedin"/>
 </a>
 </p>
 

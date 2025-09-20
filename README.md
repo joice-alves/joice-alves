@@ -16,24 +16,17 @@
 
 <h2 align="left">Tech Stack​</h2>
 
-![Java](https://img.shields.io/badge/-JAVA8-05122A?style=flat&logo=JAVA)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=kofi&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apachemaven)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-05122A?style=flat&logo=eclipseide)&nbsp;
-![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-05122A?style=flat&logo=stackoverflow)&nbsp;
 <br><br>
 
 <h2 align="left">You can find me here​</h2>
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/mjoicealves" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-joicemaiara-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://hackerrank.com/joicealves" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-joicealves-05122A?style=flat&logo=hackerrank" alt="hackerrank"/>
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square" alt="linkedin"/>
 </a>
 </p>
 

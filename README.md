@@ -16,10 +16,10 @@
 
 <h2 align="left">Tech Stack​</h2>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=kofi&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)&nbsp;
-![RabbitMQ](https://img.shields.io/badge/-rabbitmq-%23FF6600?style=flat&logo=rabbitmq&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=kofi&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-05122A?style=flat&logo=spring&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/-rabbitmq-05122A?style=flat&logo=rabbitmq&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apachemaven)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
